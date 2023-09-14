@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-echo "文本编辑器"
+echo "全网最好用的文本编辑器"
