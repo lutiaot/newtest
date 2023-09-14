@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-echo "的文本编辑器"
+echo "文本编辑器"
